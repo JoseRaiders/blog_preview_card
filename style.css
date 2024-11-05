@@ -109,6 +109,12 @@ body {
     box-shadow: 10px 10px #121212;
   }
 
+  .header__image {
+    object-fit: cover;
+    max-width: 279px;
+    height: 200px;
+  }
+
   .content {
     max-width: 279px;
   }
