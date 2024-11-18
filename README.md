@@ -37,7 +37,7 @@ Users should be able to:
 
 ### What I learned
 
-This challenge (althought my seem small to some) has helped me to improve my coding skills by building realistic projects.
+This challenge (although may seem small to some) has helped me to improve my coding skills by building realistic projects.
 
 ## Author
 
